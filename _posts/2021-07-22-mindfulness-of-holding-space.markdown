@@ -5,6 +5,7 @@ date: 2021-07-22 11:00:00 +0300
 description: # Add post description (optional)
 img: blog6-image1.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+author: rita
 tags: [Life, Transformation]
 ---
 Wishing mom on her 80th birthday, when I hugged her, she softly whispered, “You’ve taken such good care of me all these years. I got more than I could’ve asked for, and feel truly content. Today I want to declare that this year I’m ready to go to daddy.” My dad had passed away more than twenty years ago.

@@ -5,6 +5,7 @@ date: 2021-01-21 11:00:00 +0300
 description: # Add post description (optional)
 img: blog2-image1.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+author: anonymousguy
 tags: [Life]
 ---
 What is the purpose of life?

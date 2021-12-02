@@ -5,6 +5,7 @@ date: 2021-06-21 13:32:20 +0300
 description: # Add post description (optional)
 img: blog3-image1.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+author: eric
 tags: [Yoga]
 ---
 In the part of the world where I grew up, Tamil Nadu, Southern part of India, there is a long history and tradition of bowing down and touching the Guru’s and elders' feet to get their blessing. This is to honor the feet of the being that lives on this realm.

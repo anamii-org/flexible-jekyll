@@ -5,6 +5,7 @@ date: 2021-09-20 11:00:00 +0300
 description: # Add post description (optional)
 img: blog7-image3.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+author: kris
 tags: [Life, Transformation]
 ---
 As an ambitious young man looking for his place in the world, I went to university and studied Commerce. In the pursuit of success, I worked hard, studying, partying, joining a Board at 21, merging two organisations, undertaking internships, studying exchange in the U.S, and travelling the world.

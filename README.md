@@ -1,6 +1,7 @@
 # The Anamii Blog
 How to develop: 
 1. Clone this repo
+2. Install jekyll from here : https://jekyllrb.com/docs/installation/macos/ - use rbenv
 2. run ```bundle install --path vendor/bundle``` to build the website
 3. run ```bundle exec jekyll serve``` to make sure everything works
 4. commit and push

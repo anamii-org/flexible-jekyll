@@ -5,6 +5,7 @@ date: 2021-07-15 13:32:20 +0300
 description: # Add post description (optional)
 img: blog5-image1.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+author: guido
 tags: [Life, Transformation]
 ---
 In relation to Covid-19, Prof. Marcel Salathé, a well-known epidemiologist of the University of Lausanne, Switzerland, remarked in a national TV interview: “What is true for everybody is also true for scientists: We don’t know the truth. We just interpret it in our own way.”

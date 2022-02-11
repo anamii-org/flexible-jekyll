@@ -5,6 +5,7 @@ date: 2021-06-25 13:32:20 +0300
 description: # Add post description (optional)
 img: blog4-image1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+author: krishna
 tags: [Life, Transformation]
 ---
 Recently I received a postcard with something written on it by the Dalai Lama. I mean, the card

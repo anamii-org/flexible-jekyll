@@ -5,6 +5,7 @@ date: 2021-10-21 11:00:00 +0300
 description: # Add post description (optional)
 img: blog8-image1.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
+author: guido
 tags: [Life, Transformation, Dharma]
 ---
 Practically everyone knows the term ‘karma’, often translated as ‘fate’. Karma literally means an action which causes a reaction – it refers both to the cause and its effect. In physics, there is a similar understanding.

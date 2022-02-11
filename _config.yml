@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   journies, yoga, meditation, vedic teachings, etc.
 permalink: ':title/'
 baseurl: "" # the subpath 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.anamii.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
